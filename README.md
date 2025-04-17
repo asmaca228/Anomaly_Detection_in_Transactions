@@ -20,7 +20,7 @@ This project uses the Isolation Forest algorithm, a powerful unsupervised learni
   
 - Real-time visualization with Streamlit.
 
-### Techniques & Tools Used
+## Techniques & Tools Used
 
 - Python: Core programming language
 
