@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/82ec9cdf-32db-4a6d-8379-f8ff4b0156ee)
 #  Anomaly Detection in Transactions
 Anomaly detection plays a crucial role in safeguarding financial systems, detecting fraud, and ensuring operational integrity. This project implements a machine learning-based approach to identify unusual or suspicious transaction patterns using Python.
 
