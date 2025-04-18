@@ -22,14 +22,14 @@ This project uses the Isolation Forest algorithm, a powerful unsupervised learni
 
 ## Techniques & Tools Used
 
-- Python: Core programming language
+- Python : Core programming language
 
-- Pandas, NumPy: Data manipulation
+- Pandas, NumPy : Data manipulation
 
-- Matplotlib, Seaborn: Data visualization
+- Matplotlib, Seaborn : Data visualization
 
-- Scikit-learn: Machine learning (Isolation Forest)
+- Scikit-learn : Machine learning (Isolation Forest)
   
-- Streamlit – Interactive user interface
+- Streamlit : Interactive user interface
 
-- Jupyter Notebook: Development environment
+- Jupyter Notebook : Development environment
