@@ -36,6 +36,7 @@
 ## Installation and Usage
 ### Prerequisites
 - Python
+- Git
 - Basic knowledge of command line
 ### Steps
 #### 1. Clone the repository:
