@@ -1,7 +1,6 @@
 #  Anomaly Detection in Transactions
 - This project implements a machine learning solution to detect unusual or suspicious financial transactions, helping identify potential fraud or irregularities in transactional data.
 
-![Image](https://github.com/user-attachments/assets/82ec9cdf-32db-4a6d-8379-f8ff4b0156ee)
 ## Description
 - Anomaly detection is critical in financial systems to flag transactions that deviate from expected behavior. This project leverages the Isolation Forest algorithm, an unsupervised learning method that isolates anomalies effectively, especially in high-dimensional datasets. The solution includes data preprocessing, feature engineering, hyperparameter tuning, and real-time visualization for easy interpretation.
 
@@ -18,6 +17,16 @@
 - Hyperparameter tuning for improved accuracy.
   
 - Real-time visualization with Streamlit.
+
+## Model Training 
+
+The anomaly detection model is built using the **Isolation Forest** algorithm, an unsupervised learning technique designed to isolate anomalies efficiently in high-dimensional datasets. The training workflow includes:
+
+1. Data preprocessing (handling missing values, feature engineering)
+2. Splitting data into training and testing sets
+3. Training the Isolation Forest model with hyperparameter tuning
+4. Evaluating model performance 
+5. Saving the trained model using `pickle` 
 
 ## Techniques & Tools Used
 
