@@ -1,14 +1,13 @@
-![Image](https://github.com/user-attachments/assets/82ec9cdf-32db-4a6d-8379-f8ff4b0156ee)
 #  Anomaly Detection in Transactions
-Anomaly detection plays a crucial role in safeguarding financial systems, detecting fraud, and ensuring operational integrity. This project implements a machine learning-based approach to identify unusual or suspicious transaction patterns using Python.
+- This project implements a machine learning solution to detect unusual or suspicious financial transactions, helping identify potential fraud or irregularities in transactional data.
 
-## Project Overview
-Anomaly detection in transactions refers to identifying unusual or unexpected patterns that deviate from normal behavior. These anomalies might signal fraudulent activities, system glitches, or other irregularities that require investigation.
-This project uses the Isolation Forest algorithm, a powerful unsupervised learning method well-suited for high-dimensional data, to detect such anomalies effectively.
+![Image](https://github.com/user-attachments/assets/82ec9cdf-32db-4a6d-8379-f8ff4b0156ee)
+## Description
+- Anomaly detection is critical in financial systems to flag transactions that deviate from expected behavior. This project leverages the Isolation Forest algorithm, an unsupervised learning method that isolates anomalies effectively, especially in high-dimensional datasets. The solution includes data preprocessing, feature engineering, hyperparameter tuning, and real-time visualization for easy interpretation.
 
 ### Key Features
 
-- Preprocessing and exploration of transactional data.
+- Data cleaning and exploratory analysis of transactions
 
 - Feature engineering for better model performance.
 
@@ -33,3 +32,19 @@ This project uses the Isolation Forest algorithm, a powerful unsupervised learni
 - Streamlit : Interactive user interface
 
 - Jupyter Notebook : Development environment
+
+## Installation and Usage
+### Prerequisites
+- Python
+- Basic knowledge of command line
+### Steps
+#### 1. Clone the repository:
+`git clone https://github.com/asmaca228/Anomaly_Detection_in_Transactions.git`
+#### 2. Create and activate a virtual environment (recommended):
+- `python -m venv venv`
+- `source venv/bin/activate` for Mac and `venv\Scripts\activate` for Windows
+#### 3. Install dependencies:
+`pip install -r requirements.txt`
+#### 4. Launch the Streamlit app for real-time anomaly detection visualization:
+`streamlit run app.py`
+
