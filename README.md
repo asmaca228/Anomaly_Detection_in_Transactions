@@ -8,15 +8,15 @@
 
 - Data cleaning and exploratory analysis of transactions
 
-- Feature engineering for better model performance.
+- Feature engineering for better model performance
 
-- Anomaly detection using the Isolation Forest algorithm.
+- Anomaly detection using the Isolation Forest algorithm
 
-- Visualizations to understand data distribution and model output.
+- Visualizations to understand data distribution and model output
 
-- Hyperparameter tuning for improved accuracy.
+- Hyperparameter tuning for improved accuracy
   
-- Real-time visualization with Streamlit.
+- Real-time visualization with Streamlit
 
 ## Model Training 
 
