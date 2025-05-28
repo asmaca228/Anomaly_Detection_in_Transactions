@@ -4,7 +4,7 @@
 ## Description
 - Anomaly detection is critical in financial systems to flag transactions that deviate from expected behavior. This project leverages the Isolation Forest algorithm, an unsupervised learning method that isolates anomalies effectively, especially in high-dimensional datasets. The solution includes data preprocessing, feature engineering, hyperparameter tuning, and real-time visualization for easy interpretation.
 
-### Key Features
+## Key Features
 
 - Data cleaning and exploratory analysis of transactions
 
